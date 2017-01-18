@@ -24,5 +24,6 @@ public class GetTest {
         getTest.SetName("HaHa");
         getTest.GetName();
         System.out.println("name"+getTest.GetName());
+
     }
 }
