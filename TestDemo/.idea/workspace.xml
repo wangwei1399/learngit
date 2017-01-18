@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a958145e-885b-422a-b930-8596e2a6b5a0" name="Default" comment="1">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../edaixi-api-autotest" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../edaixi-api-autotest-master.zip" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../httpclient/mysqltest.jar" afterPath="" />
@@ -59,8 +58,8 @@
       <file leaf-file-name="GetTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.019607844">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.75490195">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,8 +128,8 @@
         <option value="$PROJECT_DIR$/src/Person1.java" />
         <option value="$PROJECT_DIR$/src/NewPerson.java" />
         <option value="$PROJECT_DIR$/src/Student.java" />
-        <option value="$PROJECT_DIR$/src/GetTest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/GetTest.java" />
       </list>
     </option>
   </component>
@@ -760,7 +759,7 @@
       <workItem from="1482824993808" duration="16581000" />
       <workItem from="1484187829919" duration="6740000" />
       <workItem from="1484723235153" duration="983000" />
-      <workItem from="1484724239735" duration="235000" />
+      <workItem from="1484724239735" duration="1586000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1484723905110</created>
@@ -772,7 +771,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48162000" />
+    <option name="totallyTimeSpent" value="49513000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -785,7 +784,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-498" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987553" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1223,8 +1222,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.019607844">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.75490195">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
