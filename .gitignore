@@ -1,2 +1,12 @@
-out/*
-.idea/*
+TestDemo/out/
+.idea/
+TestDemo/.idea/vcs.xml
+httpclient/.idea/
+httpclient/bin/test/Sign$1.class
+httpclient/bin/test/Sign.class
+httpclient/httpclient.iml
+httpclient/src/test/Sign.java
+sample/myuserdata/certs/
+sample/myuserdata/logs/
+sample/myuserdata/temp/
+Would skip repository sign/
